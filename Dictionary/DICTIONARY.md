@@ -42,4 +42,5 @@ function showAll() {
         console.log(key + ' --> ' + this.dataStore[key])
     }
 }
+// 정렬 기능이 추가되었다.(String에 한해서)
 ```
